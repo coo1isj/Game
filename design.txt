@@ -1,0 +1,5 @@
+Attack Mode:
+Player 1's goal is to invade map owned by Bot1 by either killing all the generals and destroying or capturing all point of interests.
+
+Difficulties:
+Easy: 1-3 generals, 1-2 points of interest
