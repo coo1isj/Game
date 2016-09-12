@@ -1,5 +1,32 @@
 Attack Mode:
-Player 1's goal is to invade map owned by Bot1 by either killing all the generals and destroying or capturing all point of interests.
+Player 1's goal is to invade the map owned by Bot1 by either killing all the generals and destroying or capturing all point of interests.
 
 Difficulties:
 Easy: 1-3 generals, 1-2 points of interest
+Medium: 3-5 generals, 2-3 points of interest
+Hard: 5-7 generals, 3-5 points of interest
+Mayhem: 7-10 generals, 5-7 points of interest
+Random: 1-10 generals, 1-7 points of interest
+
+Armies:
+USA (Starts the game with 10000$ more)
+China (Already has 20 paid soldiers at the start of game)
+Russia (Costs of land vehicles is decreased)
+North Korea (Starts game with the location of one point of interest[blocked on easy])
+Pakistan (Explosives are less costly and do more)
+UK (Costs of air and navy is decreased)
+Germany (Starts game with the location of one general[blocked on easy])
+Colombia (Black Market trade decreases the costs of some weapons and equipment)
+
+Prepare Phase: The first phase of the game is to choose your difficulty and choose your army, then a map will be chosen for Player 1 to attack on, he will then have a certain ammount of money to execute his attack.
+
+Buildings:
+
+Weapons:
+
+Vehicles:
+
+Personel:
+
+Equipment:	
+
