@@ -9,16 +9,24 @@ Mayhem: 7-10 generals, 5-7 points of interest
 Random: 1-10 generals, 1-7 points of interest
 
 Armies:
-USA (Starts the game with 10000$ more)
+USA (Starts the game with more money)
 China (Already has 20 paid soldiers at the start of game)
 Russia (Costs of land vehicles is decreased)
-North Korea (Starts game with the location of one point of interest[blocked on easy])
+North Korea (Starts game with the location of one point of interest, 2 on mayhem[blocked on easy])
 Pakistan (Explosives are less costly and do more)
 UK (Costs of air and navy is decreased)
-Germany (Starts game with the location of one general[blocked on easy])
+Germany (Starts game with the location of one general, 2 on mayhem[blocked on easy])
 Colombia (Black Market trade decreases the costs of some weapons and equipment)
 
 Prepare Phase: The first phase of the game is to choose your difficulty and choose your army, then a map will be chosen for Player 1 to attack on, he will then have a certain ammount of money to execute his attack.
+
+Money:
+Easy (start of game with 20000$, +5000$ per general and +7500$ per point of interest)
+Medium (start of game with 30000$, +6000$ per general and +9000$ per point of interest)
+Hard (start of game with 40000$, +7000$ per general and +10500$ per point of interest)
+Mayhem (start of game with 50000$, +8000$ per general and +12000$ per point of interest)
+Random (start of game with 10000$, +7500$ per general and +10000$ per point of interest)
+
 
 Buildings:
 
