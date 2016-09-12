@@ -29,11 +29,25 @@ Random (start of game with 10000$, +7500$ per general and +10000$ per point of i
 
 
 Buildings:
-
+	Anti-Aircraft:
+		25mm Air Defense Gun 72-K (M1940) {5} (1 x 25mm gun barrel)
+	Anti-Tank:
+		122mm Model 1963 (D-30 / 2A18) {6} (1 x 122mm gun barrel)
 Weapons:
 
-Vehicles:
-
+Vehicles: (speed: very slow, slow, average, fast, very fast) (size: small, medium, big, very big) (armor: light, medium, heavy) (radioactive protection, night vision, mine protected)
+	Motorcycles:
+		Harley Davison WLA {1} (average, small, none)
+		Kawasaki KLR250 {1} (fast, small, none)
+	4 wheeled cars:
+		TATA Motors LAMV {2:6} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 7.62mm or 12.7mm machine gun. Side weapon: 1 x 40mm automatic 					grenade launcher)
+	6 wheeled cars:
+		BAe RG-35 {3} (average, medium, light, NBC Protection, Night Vision, Mine Resistant) (Main weapon: 25mm autocannon. Side weapon: 7.62mm GPMG 1 x 12.7mm heavy 					machine gun. Optional: Smoke grenade dischargers)
+	8 wheeled tank destroyer:
+		NORINCO ST1 {4} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 105mm rifled main gun. Side weapon: 1 x 7.62mm coaxial machine gun,     				1 x 12.7mm Anti-Aircraft machine gun on roof. Optional: 6 x smoke grenade dischargers)	
+	Amphibious vehicle:
+		Alvis FV103 Spartan {3:7} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 7.62mm machine gun. Optional: 2 x 4 smoke grenade 				dischargers)	
+	
 Personel:
 
 Equipment:	
