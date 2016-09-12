@@ -46,7 +46,9 @@ Vehicles: (speed: very slow, slow, average, fast, very fast) (size: small, mediu
 	8 wheeled tank destroyer:
 		NORINCO ST1 {4} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 105mm rifled main gun. Side weapon: 1 x 7.62mm coaxial machine gun,     				1 x 12.7mm Anti-Aircraft machine gun on roof. Optional: 6 x smoke grenade dischargers)	
 	Amphibious vehicle:
-		Alvis FV103 Spartan {3:7} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 7.62mm machine gun. Optional: 2 x 4 smoke grenade 				dischargers)	
+		Alvis FV103 Spartan {3:7} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 7.62mm machine gun. Optional: 2 x 4 smoke grenade 						dischargers)
+	Tank tank destroyer:
+		2S25 (Sprut-SD) {3} (slow, medium, light, NBC protection, Night Vision) (Main weapon: 1 x 125mm 2A75 main gun. Side weapon: 1 x 7.62mm coaxial machine gun. 				Optional: 6 x Smoke grenade dischargers)	
 	
 Personel:
 
