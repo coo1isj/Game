@@ -41,16 +41,20 @@ Vehicles: (speed: very slow, slow, average, fast, very fast) (size: small, mediu
 		Kawasaki KLR250 {1} (fast, small, none)
 	4 wheeled cars:
 		TATA Motors LAMV {2:6} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 7.62mm or 12.7mm machine gun. Side weapon: 1 x 40mm automatic 					grenade launcher)
+		AEC Armored Car Mk 1 {3} (slow, medium, heavy) (Main weapon: 1 x 40mm QF 2-pdr main gun. Side weapon: 1 x 7.92mm Besa coaxial machine gun)
 	6 wheeled cars:
 		BAe RG-35 {3} (average, medium, light, NBC Protection, Night Vision, Mine Resistant) (Main weapon: 25mm autocannon. Side weapon: 7.62mm GPMG 1 x 12.7mm heavy 					machine gun. Optional: Smoke grenade dischargers)
+		Alvis FV603 Saracen {2:11} {slow, medium, heavy, NBC Protection, Night Vision) (Main weapon: 1 x 7.62mm (.303) light machine gun. Optional: 6 x Smoke grenade 					Dischargers)
 	8 wheeled tank destroyer:
 		NORINCO ST1 {4} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 105mm rifled main gun. Side weapon: 1 x 7.62mm coaxial machine gun,     				1 x 12.7mm Anti-Aircraft machine gun on roof. Optional: 6 x smoke grenade dischargers)	
 	Amphibious vehicle:
 		Alvis FV103 Spartan {3:7} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 7.62mm machine gun. Optional: 2 x 4 smoke grenade 						dischargers)
 	Tank tank destroyer:
-		2S25 (Sprut-SD) {3} (slow, medium, light, NBC protection, Night Vision) (Main weapon: 1 x 125mm 2A75 main gun. Side weapon: 1 x 7.62mm coaxial machine gun. 				Optional: 6 x Smoke grenade dischargers)	
+		2S25 (Sprut-SD) {3} (slow, medium, light, NBC protection, Night Vision) (Main weapon: 1 x 125mm 2A75 main gun. Side weapon: 1 x 7.62mm coaxial machine gun. 					Optional: 6 x Smoke grenade dischargers)	
+	APC:
+		Merkava Namer (Leopard) {3:13} (slow, medium, heavy, NBC protection, Night Vision) (Main weapon: 1 x 12.7mm Browning M2 heavy machine gun or 1 x 40mm Mk 19 				automatic grenade launcher. Side weapon: 1 x 7.62mm FN MAG machine gun, 1 x 60mm field mortar. Optional: 12 x Smoke grenade dischargers)
 	
-Personel:
+Personnel:
 
 Equipment:	
 
