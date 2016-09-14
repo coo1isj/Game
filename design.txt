@@ -33,6 +33,8 @@ Buildings:
 		25mm Air Defense Gun 72-K (M1940) {5} (1 x 25mm gun barrel)
 	Anti-Tank:
 		122mm Model 1963 (D-30 / 2A18) {6} (1 x 122mm gun barrel)
+	Anti-Personnel:
+		21cm Nebelwerfer 42 (21cm NbW 42) {4} (5 x 21-cm horizontal launct tubes on two-wheeled carriage assembly)
 Weapons:
 
 Vehicles: (speed: very slow, slow, average, fast, very fast) (size: small, medium, big, very big) (armor: light, medium, heavy) (radioactive protection, night vision, mine protected)
@@ -40,29 +42,33 @@ Vehicles: (speed: very slow, slow, average, fast, very fast) (size: small, mediu
 		Harley Davison WLA {1} (average, small, none)
 		Kawasaki KLR250 {1} (fast, small, none)
 	4 wheeled cars:
-		TATA Motors LAMV {2:6} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 7.62mm or 12.7mm machine gun. Side 		weapon: 1 x 40mm automatic grenade launcher)
-		AEC Armored Car Mk 1 {3} (slow, medium, heavy) (Main weapon: 1 x 40mm QF 2-pdr main gun. Side weapon: 1 x 7.92mm Besa coaxial machine 		gun)
+		TATA Motors LAMV {2:6} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 7.62mm or 12.7mm machine gun. Side weapon: 1 x 40mm automatic 			grenade launcher)
+		AEC Armored Car Mk 1 {3} (slow, medium, heavy) (Main weapon: 1 x 40mm QF 2-pdr main gun. Side weapon: 1 x 7.92mm Besa coaxial machine gun)
 		Ford GP {1:4} (average, medium, light)
-		9P148 Konkurs (BRDM-2 Spandrel) {3} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 5 x Missile Launcher System 		on roof (anti tank)
+		9P148 Konkurs (BRDM-2 Spandrel) {3} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 5 x Missile Launcher System on roof (anti tank)
+		Chenowth Scorpion DPV {3} (average, medium, light) (Main weapon: 1 x 40mm SACO MK 19 Automatic Grenade Launcher. Side weapon: 1 x 12.7mm M2 Browning Heavy 			Machine Gun, 1 x 7.62mm M60 General Purpose Machine Gun, 2 x Anti-Tank Missile Launchers.)
 	6 wheeled cars:
-		BAe RG-35 {3} (average, medium, light, NBC Protection, Night Vision, Mine Resistant) (Main weapon: 25mm autocannon. Side weapon: 			7.62mm GPMG 1 x 12.7mm heavy machine gun. Optional: Smoke grenade dischargers)
-		Alvis FV603 Saracen {2:11} {slow, medium, heavy, NBC Protection, Night Vision) (Main weapon: 1 x 7.62mm (.303) light machine gun. 			Optional: 6 x Smoke grenade Dischargers)
-		BAe Caiman {2:10} (average, medium, medium, NBC protection, Night Vision, Mine Resistant) (Main weapon: 1 x 7.62mm machine gun or 		12.7mm Heavy machine gun or 1 x 40mm automatic grenade launcher)
+		BAe RG-35 {3} (average, medium, light, NBC Protection, Night Vision, Mine Resistant) (Main weapon: 25mm autocannon. Side weapon: 7.62mm GPMG 1 x 12.7mm heavy 			machine gun. Optional: Smoke grenade dischargers)
+		Alvis FV603 Saracen {2:11} {slow, medium, heavy, NBC Protection, Night Vision) (Main weapon: 1 x 7.62mm (.303) light machine gun. Optional: 6 x Smoke grenade 			Dischargers)
+		BAe Caiman {2:10} (average, medium, medium, NBC protection, Night Vision, Mine Resistant) (Main weapon: 1 x 7.62mm machine gun or 12.7mm Heavy machine gun or 1 		x 40mm automatic grenade launcher)
+		AMX-10RC {4} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 105mm BK MECA L/48 main gun. Side weapon: 1 x 7.62mm NF1 coaxial anti-			aircraft machine gun)
 	8 wheeled tank destroyer:
-		NORINCO ST1 {4} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 105mm rifled main gun. Side weapon: 1 x 			7.62mm coaxial machine gun, 1 x 12.7mm Anti-Aircraft machine gun on roof. Optional: 6 x smoke grenade dischargers)	
+		NORINCO ST1 {4} (average, medium, light, NBC Protection, Night Vision) (Main weapon: 1 x 105mm rifled main gun. Side weapon: 1 x 7.62mm coaxial machine gun, 1 			x 12.7mm Anti-Aircraft machine gun on roof. Optional: 6 x smoke grenade dischargers)	
 	Amphibious vehicle:
-		Alvis FV103 Spartan {3:7} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 7.62mm machine gun. Optional: 2 x 			4 smoke grenade dischargers)
+		Alvis FV103 Spartan {3:7} (average, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 7.62mm machine gun. Optional: 2 x 4 smoke grenade 				dischargers)
+		AAVP-7A1 / LVTP-7A1 {3} (slow, medium, heavt, Nightvision) (1 x 40mm grenade launcher or 1 x 25mm M242 Bushmaster cannon. Side Weapon: 1 x 12.7mm Browning M2HB 		heavy anti-aircraft machine gun)
 	Tank tank destroyer:
-		2S25 (Sprut-SD) {3} (slow, medium, light, NBC protection, Night Vision) (Main weapon: 1 x 125mm 2A75 main gun. Side weapon: 1 x 7.62mm 		coaxial machine gun. Optional: 6 x Smoke grenade dischargers)	
+		2S25 (Sprut-SD) {3} (slow, medium, light, NBC protection, Night Vision) (Main weapon: 1 x 125mm 2A75 main gun. Side weapon: 1 x 7.62mm coaxial machine gun. 			Optional: 6 x Smoke grenade dischargers)	
 	APC:
-		Merkava Namer (Leopard) {3:13} (slow, medium, heavy, NBC protection, Night Vision) (Main weapon: 1 x 12.7mm Browning M2 heavy machine 			gun or 1 x 40mm Mk 19 automatic grenade launcher. Side weapon: 1 x 7.62mm FN MAG machine gun, 1 x 60mm field mortar. Optional: 12 x 			Smoke grenade dischargers)
+		Merkava Namer (Leopard) {3:13} (slow, medium, heavy, NBC protection, Night Vision) (Main weapon: 1 x 12.7mm Browning M2 heavy machine gun or 1 x 40mm Mk 19 			automatic grenade launcher. Side weapon: 1 x 7.62mm FN MAG machine gun, 1 x 60mm field mortar. Optional: 12 x Smoke grenade dischargers)
 		AEC Matador {1:19} (slow, medium, light)
 	Tank:
-		T-15 (Armata) (Object 149) {3} (slow, medium, heavy, NBC protection, Night Vision) (Main weapon: 1 x 30mm autocannon, 1 x 762mm or 			12.7mm machine gun. Side weapon: 1 x 30mm automatic grenade launcher, 4 x "Komet-EM" Anti-Tank Guided Missile (ATGM) launcher. 				Optional: 10 x Smoke grenade dischargers.
-		Norinco MBT-300 (VT-4) {3} (slow, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 125mm smoothbore main gun. Side 			weapon: 1 x 12.7mm anti-aircraft machine gun, 1 x 7.62m coaxial machine gun, 12 x grenade launchers smoke or shrapnel.
-		CV90120 {4} (slow, medium, light, NBC protection, Night Vision) (Main weapon: 1 x 120mm L/50 Compact Tank Gun (CTG). Side weapon: 1 x 			7.62mm coaxial machine gun, 1 x 12.7mm heavy machine gun. Optional: 6 x smoke grenade dischargers)
-		Cruiser Mk2 (A10 Mark IA) {5} (very slow, medium, medium) (Main weapon: 1 x 40mm (QF 2-pdr) main gun. Side weapon: 2 x 7.92mm Vickers 			or BESA coaxial machine gun and hull-mounted machine gun 
-		ARL 44 {5} (very slow, medium, heavy) (Main weapon: 1 x 90mm DCA45 main gun. Side weapon: 2 x 7.5mm MAC31 Chatellerault machine gun in 		coaxial mount and front right bow mount)
+		T-15 (Armata) (Object 149) {3} (slow, medium, heavy, NBC protection, Night Vision) (Main weapon: 1 x 30mm autocannon, 1 x 762mm or 12.7mm machine gun. Side 			weapon: 1 x 30mm automatic grenade launcher, 4 x "Komet-EM" Anti-Tank Guided Missile (ATGM) launcher. Optional: 10 x Smoke grenade dischargers.)
+		Norinco MBT-300 (VT-4) {3} (slow, medium, medium, NBC protection, Night Vision) (Main weapon: 1 x 125mm smoothbore main gun. Side weapon: 1 x 12.7mm anti-			aircraft machine gun, 1 x 7.62m coaxial machine gun, 12 x grenade launchers smoke or shrapnel.
+		CV90120 {4} (slow, medium, light, NBC protection, Night Vision) (Main weapon: 1 x 120mm L/50 Compact Tank Gun (CTG). Side weapon: 1 x 7.62mm coaxial machine 			gun, 1 x 12.7mm heavy machine gun. Optional: 6 x smoke grenade dischargers)
+		Cruiser Mk2 (A10 Mark IA) {5} (very slow, medium, medium) (Main weapon: 1 x 40mm (QF 2-pdr) main gun. Side weapon: 2 x 7.92mm Vickers or BESA coaxial machine 			gun and hull-mounted machine gun 
+		ARL 44 {5} (very slow, medium, heavy) (Main weapon: 1 x 90mm DCA45 main gun. Side weapon: 2 x 7.5mm MAC31 Chatellerault machine gun in coaxial mount and front 			right bow mount)
+		AHS Krab (Crab) {5} (slow, medium, medium, NBC Protection, Night Vision) (Main weapon: 1 x 155mm main gun. Side Weapon: 1 x 12.7mm anti-aircraft heavy machine 			gun. Optional: 8 x 81mm smoke grenade dischargers.)
 Personnel:
 
 Equipment:	
