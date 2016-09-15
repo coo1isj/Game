@@ -35,7 +35,42 @@ Buildings:
 		122mm Model 1963 (D-30 / 2A18) {6} (1 x 122mm gun barrel)
 	Anti-Personnel:
 		21cm Nebelwerfer 42 (21cm NbW 42) {4} (5 x 21-cm horizontal launct tubes on two-wheeled carriage assembly)
-Weapons:
+Weapons: (range, caliber, rate of fire, mag)
+	Anti-Aircraft:
+		Raytheon FIM-92 Stinger (15,750 feet, 70mm, 1rpm)
+		Baher-23 (9,840 feet, 23x115mm, bolt action)
+	Anti-tank:
+		AW50 (4,921 feet, 12.7x99m, bolt action 5rpm, 5)
+		Barrett M82 (1850 feet, 12.7x99mm, semi-auto, 10rpm, 10)
+		AC58 (58mm, single use)
+		Panzerfaust 3 (1300 feet, 60mm, single shot)
+	Rifles:
+		ArmaLite AR-18 (3250 feet, 5.56x45mm NATO, automatic, 700rpm, 20-30-40)
+		Barrett REC7 (2000 feet, 5.56x45mm NATO, automatic, 600rpm, 30)
+		Bushmaster M17S (5.56x45mm, semi automatic, 10-30)
+		CZ805 BREN (1640 feet, 5.56x45mm or 7.62x39mm, automatic, 20-30-100)
+		Tokarev SVT-38 (2756 feet, 7.62x54mm, semi automatic, 10)
+	Sniper Rifles:	
+		DSR-Precision DSR-1 (2625 feet, .308 winchester, bolt action, 5)
+	Flmaethrower:
+		M2-2/M9A1-7 (65 feet, 4.7 gallon nitrogen fuel canister)
+	Grenade Launcher:
+		China Lake (1150 feet, 40x46mm, pump action, 3 round tubular magazine)
+	Machine Guns:
+		Ares Defense Shrike 5.56 (5.56x45mm NATO, automatic, 800rpm, 30-100-200)
+		BESAL (2450 feet, 0.303 British, Automatic, 600rpm, 30)
+	SMG:
+		Beretta Model 12 (1245 feet, 9x19mm, automatic, 550rpm, 20-32-40)
+		Scorpion EVO3 (1200 feet, 9x19mm, automatic, 1150rpm, 30)
+		AUSTEN (1200 feet, 9x19mm, semi or auto, 28)
+	Pistols:
+		AMT Hardballer (164 feet, .45ACP 10mm auto, Semi Automatic, 7-8)
+		Beretta 1915 (9x19mm 9mm, semi automatic, 8)
+		Browning BDA (164 feet, 9x19mm 9x21mm, semi automatic, 7-14-15)
+		Anaconda (.44, repeating, 6)
+	Shotguns:
+		Stiker (12 gauge, semi automatic, 7-12)
+		Benelli M3 Super 90 (12 or 20 gauge, pump action, 6-8)
 
 Vehicles: (speed: very slow, slow, average, fast, very fast) (size: small, medium, big, very big) (armor: light, medium, heavy) (radioactive protection, night vision, mine protected)
 Land:
