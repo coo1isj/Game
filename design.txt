@@ -38,6 +38,7 @@ Buildings:
 Weapons:
 
 Vehicles: (speed: very slow, slow, average, fast, very fast) (size: small, medium, big, very big) (armor: light, medium, heavy) (radioactive protection, night vision, mine protected)
+Land:
 	Motorcycles:
 		Harley Davison WLA {1} (average, small, none)
 		Kawasaki KLR250 {1} (fast, small, none)
@@ -69,6 +70,23 @@ Vehicles: (speed: very slow, slow, average, fast, very fast) (size: small, mediu
 		Cruiser Mk2 (A10 Mark IA) {5} (very slow, medium, medium) (Main weapon: 1 x 40mm (QF 2-pdr) main gun. Side weapon: 2 x 7.92mm Vickers or BESA coaxial machine 			gun and hull-mounted machine gun 
 		ARL 44 {5} (very slow, medium, heavy) (Main weapon: 1 x 90mm DCA45 main gun. Side weapon: 2 x 7.5mm MAC31 Chatellerault machine gun in coaxial mount and front 			right bow mount)
 		AHS Krab (Crab) {5} (slow, medium, medium, NBC Protection, Night Vision) (Main weapon: 1 x 155mm main gun. Side Weapon: 1 x 12.7mm anti-aircraft heavy machine 			gun. Optional: 8 x 81mm smoke grenade dischargers.)
+Water:
+	Amphibious vehicle:
+		PACV / ACV {4:6} (slow, medium, light) (Main weapon: 1 or 2 x 12.7mm machine guns at the front. Side weapon: 2 x 7.62mm M60 general purpose machine gun)
+	Boat:
+		Higgins PT Boat {11: 21} (slow, medium, medium) (Main weapon: 4 x 21-inch torpedo tubes. Side weapon: 1 x 37mm or 40mm Dual-Purpose cannon, 1 x 20mm Oerlikon 			anti-aircraft cannon, 4 x 12.7mm anti-aircraft machine guns.)
+Air: (Check www.militaryfactory.com for more weapon info)
+	Attack Helicopter:
+		Bell AH-1G Cobra {2:4} (277kmh, medium, medium) (Main weapon: M28 Turret: 2 x 7.62mm miniguns or 2 x 40mmM129 grenade launcher. Side weapons:4 or 8 x missile 			pods (anti-tank))
+		Boeing / Hughes Mh-6 Little Bird {2} (282kmh, small, light) (Main weapon: 2 x 7.62mm M134 Miniguns)
+	Jets:
+		Avioane IAR 93B Vultur {1,2} (1090kmh, medium, medium) (Main weapon: 2 x 23mm GSh-23L internal cannons)
+		AIDC AT-3A Tz-Chiang {2} (904kmh, medium, light) (Main weapon: 2 x 12.7mm heavy machine guns. Side weapons: 2 x AIM-9 air to air missiles)
+	Bomber:
+		Boeing B-47E-IV Stratojet {3:7} (965kmh, big, heavy) (Main weapon: 2 x 12.5mm heavy machine guns in rear. Side weapons: 2 x 20mm cannons in rear)
+	Airbus:
+		Airbus Helicopter NH90 {3:19} (300kmh, medium, medium)
+	
 Personnel:
 
 Equipment:	
