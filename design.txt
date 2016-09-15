@@ -125,4 +125,41 @@ Air: (Check www.militaryfactory.com for more weapon info)
 Personnel:
 
 Equipment:	
+	C4
+	Claymore
+	Bouncing Betty
+	Camera
+	Gas Mask
+	Flashbang
+	Frag Grenade
+	Armor
+	Mine
+	Molotov
+	Decoy
+	ammo box
+	medkit
+	defibrillator
+	repair tool
+	signal jammer
+	motion sensor
+	knife
 
+	Gun Attachments:
+		Sights:
+			Reflex
+			Holo
+			Acog
+			PSO-1
+			Hunter
+			Ballistic
+		Supressor
+		flash hider
+		flash light
+		laser sight
+		angled grip
+		bipod
+		fore grip
+		grenade launcher
+		long barrel
+		heat sensor
+		
