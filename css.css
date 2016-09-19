@@ -11,3 +11,21 @@
     left: 50%;
     transform: translate(-50%, -50%)
 }
+#attack {
+    width: 557px;
+    height: 624px;
+    border: 2px solid grey;
+    border-radius: 25px;
+    position: fixed;
+    margin: 10px;
+}
+#defend {
+    width: 557px;
+    height: 624px;
+    border: 2px solid grey;
+    border-radius: 25px;
+    position: fixed;
+    margin: 10px;
+    left: 571px;
+    
+}
