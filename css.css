@@ -1,0 +1,13 @@
+#background {
+    background-color: black;
+}
+#background2 {
+    width: 1152px;
+    height: 648px;
+    border: 2px solid grey;
+    border-radius: 25px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
