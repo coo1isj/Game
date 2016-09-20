@@ -1,3 +1,6 @@
+Font:
+Copperplate Gothic Bold
+
 Attack Mode:
 Player 1's goal is to invade the map owned by Bot1 by either killing all the generals and destroying or capturing all point of interests.
 
