@@ -11,7 +11,7 @@
     left: 50%;
     transform: translate(-50%, -50%)
 }
-#attack {
+#attackbox {
     width: 557px;
     height: 624px;
     border: 2px solid grey;
@@ -19,13 +19,19 @@
     position: fixed;
     margin: 10px;
 }
-#defend {
+#defendbox {
     width: 557px;
     height: 624px;
     border: 2px solid grey;
     border-radius: 25px;
     position: fixed;
     margin: 10px;
-    left: 571px;
-    
+    left: 571px;   
+}
+#attack {
+    position: absolute;
+    width: 507px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
