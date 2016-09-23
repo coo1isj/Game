@@ -15,7 +15,7 @@ $(document).ready(function () {
 
     });
     $('#attackbox').mouseleave(function () {
-        if (!isMoving) {
+        if (!isMoving || isMoving) {
             isMoving = true;
             $('#attack').animate({
                 top: startTop
