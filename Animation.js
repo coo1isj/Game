@@ -1,5 +1,4 @@
 $(document).ready(function () {
-
     var startTop = $('#attack').css("top");
     var isMoving = false;
     /*
@@ -46,8 +45,13 @@ $(document).ready(function () {
         }
     });
     $('#defendbox').hover(function () {
-        $('#attack').animate({
-            top: startTop
-        });
+        if (isMoving == false || isMoving == true) {
+            isMoving = true;
+            $('#attack').animate({
+                top: startTop
+            }, function () {
+                isMoving = false;
+            });
+        }
     });
 });
