@@ -1,6 +1,7 @@
 #background {
     background-color: black;
 }
+
 #background2 {
     width: 1152px;
     height: 648px;
@@ -11,6 +12,7 @@
     left: 50%;
     transform: translate(-50%, -50%)
 }
+
 #attackbox {
     width: 557px;
     height: 624px;
@@ -19,6 +21,7 @@
     position: fixed;
     margin: 10px;
 }
+
 #defendbox {
     width: 557px;
     height: 624px;
@@ -28,6 +31,7 @@
     margin: 10px;
     left: 571px;
 }
+
 #attack {
     position: absolute;
     width: 507px;
@@ -35,6 +39,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 #defend {
     position: absolute;
     width: 507px;
@@ -42,7 +47,29 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 #attackback {
-  width: 557px;
-  border-radius: 23px;
+    width: 557px;
+    border-radius: 23px;
+}
+
+#attbtn1 {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    background: #616161;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#attbtn1:hover {
+    background: #212121;
+    text-decoration: none;
 }
