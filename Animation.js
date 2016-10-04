@@ -1,7 +1,8 @@
 $(document).ready(function () {
     var startTop = $('#attack').css("top");
     var isMoving = false;
-    var playVisible = document.getElementById("attbtn2").style.visibility = "hidden";
+    document.getElementById("attbtn2").style.visibility = "hidden";
+    document.getElementById("attp").style.visibility = "hidden";
 });
 
 function attMove() {
@@ -13,5 +14,6 @@ function attMove() {
     }, 1000, function () {
         document.getElementById("attbtn1").style.visibility = "hidden";
         document.getElementById("attbtn2").style.visibility = "visible";
+        document.getElementById("attp").style.visibility = "visible";
     });
 }

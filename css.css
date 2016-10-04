@@ -94,3 +94,23 @@
     background: #212121;
     text-decoration: none;
 }
+
+#attp {
+    font-family: Georgia;
+    font-size: 40px;
+    position: fixed;
+    top: 30%;
+    text-align: center;
+    padding: 15px;
+}
+
+#attpbox {
+    position: fixed;
+    border-radius: 25px;
+    border: 2px solid black;
+    width: 547px;
+    height: 250px;
+    top: 53%;
+    transform: translate(-50%, -50%);
+    left: 290px;
+}
