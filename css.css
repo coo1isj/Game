@@ -73,3 +73,24 @@
     background: #212121;
     text-decoration: none;
 }
+
+#attbtn2 {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    background: #616161;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    position: absolute;
+    top: 550;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#attbtn2:hover {
+    background: #212121;
+    text-decoration: none;
+}
