@@ -3,6 +3,7 @@ $(document).ready(function () {
     var isMoving = false;
     document.getElementById("attbtn2").style.visibility = "hidden";
     document.getElementById("attp").style.visibility = "hidden";
+    document.getElementById("attpbox").style.visibility = "hidden";
 });
 
 function attMove() {
@@ -15,5 +16,6 @@ function attMove() {
         document.getElementById("attbtn1").style.visibility = "hidden";
         document.getElementById("attbtn2").style.visibility = "visible";
         document.getElementById("attp").style.visibility = "visible";
+        document.getElementById("attpbox").style.visibility = "visible";
     });
 }
