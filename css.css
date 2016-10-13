@@ -121,3 +121,15 @@
     width: 557px;
     border-radius: 23px;
 }
+
+#armyBackground {
+    background-color: black;
+}
+
+#armytext {
+    width: 1024px;
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+}
