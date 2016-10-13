@@ -15,6 +15,14 @@ Armies:
 USA (Starts the game with more money)
 China (Already has 20 paid soldiers at the start of game)
 Russia (Costs of land vehicles is decreased)
+Japan
+India
+France
+Italy
+Turkey
+Australia
+Israel
+Canada
 North Korea (Starts game with the location of one point of interest, 2 on mayhem[blocked on easy])
 Pakistan (Explosives are less costly and do more)
 UK (Costs of air and navy is decreased)
