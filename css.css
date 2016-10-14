@@ -133,3 +133,54 @@
     transform: translate(-50%, -50%);
     position: fixed;
 }
+
+#usaflag {
+    position: fixed;
+    width: 400px;
+    top: 200px;
+    left: 100px;
+}
+
+#usa {
+    position: fixed;
+    top: 30%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    width: 150px;
+}
+
+#defbox {
+    width: 700px;
+    height: 400px;
+    border: 2px solid grey;
+    border-radius: 25px;
+    top: 60%;
+    left: 66%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+}
+
+#defusa {}
+
+#togame {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    background: #616161;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    position: absolute;
+    top: 625;
+    left: 66%;
+    transform: translate(-50%, -50%);
+}
+
+#togame:hover {
+    background: #212121;
+    text-decoration: none;
+}
