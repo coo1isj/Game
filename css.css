@@ -162,7 +162,14 @@
     opacity: 0.6;
 }
 
-#defusa {}
+#defusa {
+    font-family: Georgia;
+    font-size: 40px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 #togame {
     -webkit-border-radius: 10;
