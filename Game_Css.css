@@ -1,0 +1,58 @@
+#map1 {
+    width: 1024px;
+    position: absolute;
+}
+
+#map2 {
+    width: 1024px;
+    position: absolute;
+}
+
+#map3 {
+    width: 1024px;
+    position: absolute;
+}
+
+#map1button {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    background: #616161;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    top: 75%;
+    position: absolute;
+}
+
+#map2button {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    background: #616161;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    top: 75%;
+    left: 7%;
+    position: absolute;
+}
+
+#map3button {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 22px;
+    background: #616161;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    top: 75%;
+    left: 14%;
+    position: absolute;
+}
